@@ -10,8 +10,8 @@
 
 ## II. Document Loading
 1. Loader
-2. Document Loader
 
+2. Document Loader
 
 
 ## III. Document Splitting
